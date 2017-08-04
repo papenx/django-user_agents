@@ -1,3 +1,5 @@
+fixed middleware problem from original
+
 Django User Agents
 ==================
 
@@ -12,7 +14,7 @@ Installation
 1. Install ``django-user-agents``, you'll have to make sure that `user-agents`_ is installed first::
 
     pip install pyyaml ua-parser user-agents
-    pip install django-user-agents
+    pip install django-useragents
 
 2. Configure ``settings.py``:
 
