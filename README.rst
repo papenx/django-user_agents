@@ -11,7 +11,7 @@ it uses `user-agents <https://github.com/selwin/python-user-agents>`_.
 Installation
 ============
 
-1. Install ``django-user-agents``, you'll have to make sure that `user-agents`_ is installed first::
+1. Install ``django-useragents``, you'll have to make sure that `user-agents`_ is installed first::
 
     pip install pyyaml ua-parser user-agents
     pip install django-useragents
